@@ -3,3 +3,5 @@ local_model: "your-ollama-model"
 research_model: "your-hosted-model"
 max_jobs: 10
 profile_path: "profile.md"
+
+LLM_BASE_MODEL: "qwen2:7b"
