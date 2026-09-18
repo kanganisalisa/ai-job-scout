@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+profile.md
+
+credentials.json
+token.json
+.env
+profile.md
+data/
+
+.venv/
+token.json
+email_venv/
+__pycache__/

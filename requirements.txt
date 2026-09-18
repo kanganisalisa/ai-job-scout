@@ -1,0 +1,19 @@
+# Gmail API and Google authentication
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+
+# Local and hosted models
+ollama
+anthropic
+
+# Validate structured model outputs
+pydantic>=2,<3
+
+# Load .env secrets and config.yaml settings
+python-dotenv
+PyYAML
+
+# Extract readable text and links from HTML emails
+beautifulsoup4

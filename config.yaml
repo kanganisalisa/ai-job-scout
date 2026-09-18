@@ -1,0 +1,5 @@
+lookback_days: 7
+local_model: "your-ollama-model"
+research_model: "your-hosted-model"
+max_jobs: 10
+profile_path: "profile.md"
