@@ -227,5 +227,6 @@ data/
 
 .venv/
 token.json
+
 email_venv/
 __pycache__/
